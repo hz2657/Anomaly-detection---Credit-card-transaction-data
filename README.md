@@ -17,8 +17,9 @@ https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2014*
 
 **Steps**
 - EDA
-- Create 20 features
+- feature engineering: Create 20 features
 - Data visualization by plotly
+- unsupervised learning (future)
 
 
 <img src="data visualization/fraud-alerts-lg.png" alt="image" width="700"/>
