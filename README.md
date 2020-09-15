@@ -12,4 +12,4 @@ Tools:
 plotly
 
 
-<img src="graph/dashboard2.png" alt="dashboard preview" width="700"/>
+<img src="data visualization/fraud-alerts-lg.png" alt="image" width="700"/>
