@@ -10,3 +10,6 @@ reference: https://machinelearningmastery.com/basic-feature-engineering-time-ser
 
 Tools:
 plotly
+
+
+<img src="graph/dashboard2.png" alt="dashboard preview" width="700"/>
